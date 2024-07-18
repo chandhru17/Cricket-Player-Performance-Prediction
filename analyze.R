@@ -1,4 +1,3 @@
-#An R project by Tarun S 
 
 color_picker <- function(opposing_team){
   team_color <- 'black'
